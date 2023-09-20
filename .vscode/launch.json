@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\src\\authentication\\presentation\\cubit\\authentication_cubit.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\src\\authentication\\presentation\\cubit\\authentication_cubit.dart"
+        }
+    ]
+}
